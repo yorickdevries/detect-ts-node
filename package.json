@@ -1,0 +1,19 @@
+{
+  "name": "detect-ts-node",
+  "version": "1.0.0",
+  "description": "Detect whether the code is running in TS Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yorickdevries/detect-ts-node.git"
+  },
+  "author": "Yorick de Vries",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yorickdevries/detect-ts-node/issues"
+  },
+  "homepage": "https://github.com/yorickdevries/detect-ts-node#readme"
+}
